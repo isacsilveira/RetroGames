@@ -1,0 +1,19 @@
+# Segredos: nunca versionar
+.env
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+TestResults/
+
+# Node / front-end
+node_modules/
+dist/
+
+# Editores e sistema
+.idea/
+.DS_Store
+Thumbs.db
